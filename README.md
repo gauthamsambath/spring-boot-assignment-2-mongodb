@@ -20,7 +20,7 @@ This also has some pre loaded data seeded with the help of application runner an
 
 This Web application has no front end as in display page for web page has not been designed .It only performs all the CRUD operations .
 
-Implented Using Spring Boot,Spring.io and Maven.
+Implemented Using Spring Boot,Spring.io and Maven.
 
 
 
