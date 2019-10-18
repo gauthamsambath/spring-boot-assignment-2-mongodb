@@ -1,0 +1,10 @@
+[0;1;32m●[0m mongod.service - MongoDB Database Server
+   Loaded: loaded (/lib/systemd/system/mongod.service; disabled; vendor preset: enabled)
+   Active: [0;1;32mactive (running)[0m since Thu 2019-10-17 14:59:14 IST; 1h 42min ago
+     Docs: https://docs.mongodb.org/manual
+ Main PID: 26583 (mongod)
+   Memory: 167.6M
+   CGroup: /system.slice/mongod.service
+           └─26583 /usr/bin/mongod --config /etc/mongod.conf
+
+Oct 17 14:59:14 cgi-Latitude-E5440 systemd[1]: Started MongoDB Database Server.
